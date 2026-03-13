@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Данил",
+        "age": 20,
+        "city": "Москва",
+        "balance": 1500,
+        "active": false
+    },
+    {
+        "name": "Иван",
+        "age": 25,
+        "city": "Питер",
+        "balance": 3200,
+        "active": false
+    },
+    {
+        "name": "Мария",
+        "age": 22,
+        "city": "Казань",
+        "balance": 800,
+        "active": false
+    },
+    {
+        "name": "Алексей",
+        "age": 30,
+        "city": "Москва",
+        "balance": 5000,
+        "active": false
+    },
+    {
+        "name": "Ольга",
+        "age": 28,
+        "city": "Питер",
+        "balance": 1200,
+        "active": false
+    },
+    {
+        "name": "Дмитрий",
+        "age": 35,
+        "city": "Москва",
+        "balance": 7500,
+        "active": false
+    },
+    {
+        "name": "Анна",
+        "age": 19,
+        "city": "Казань",
+        "balance": 500,
+        "active": false
+    },
+    {
+        "name": "Сергей",
+        "age": 45,
+        "city": "Питер",
+        "balance": 9000,
+        "active": false
+    },
+    {
+        "name": "Елена",
+        "age": 27,
+        "city": "Москва",
+        "balance": 2300,
+        "active": false
+    },
+    {
+        "name": "Павел",
+        "age": 33,
+        "city": "Казань",
+        "balance": 4100,
+        "active": false
+    }
+]

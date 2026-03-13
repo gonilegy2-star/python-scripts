@@ -1,0 +1,41 @@
+{
+    "timestamp": "2026-03-10 21:12:02",
+    "elapsed_seconds": 4.04,
+    "data": {
+        "currencies": {
+            "EUR": 0.863309,
+            "RUB": 78.278961,
+            "GBP": 0.747129
+        },
+        "post_1": {
+            "id": 1,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "text": "quia et suscipit\nsuscipit recusandae consequuntur ..."
+        },
+        "post_2": {
+            "id": 2,
+            "title": "qui est esse",
+            "text": "est rerum tempore vitae\nsequi sint nihil reprehend..."
+        },
+        "post_3": {
+            "id": 3,
+            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "text": "et iusto sed quo iure\nvoluptatem occaecati omnis e..."
+        },
+        "weather_Moscow": {
+            "city": "Moscow",
+            "temperature": 5.2,
+            "windspeed": 7.0
+        },
+        "weather_London": {
+            "city": "London",
+            "temperature": 11.2,
+            "windspeed": 18.0
+        },
+        "weather_Tokyo": {
+            "city": "Tokyo",
+            "temperature": 1.5,
+            "windspeed": 3.3
+        }
+    }
+}
