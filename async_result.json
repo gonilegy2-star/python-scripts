@@ -1,11 +1,11 @@
 {
-    "timestamp": "2026-03-10 21:12:02",
-    "elapsed_seconds": 4.04,
+    "timestamp": "2026-03-13 20:59:45",
+    "elapsed_seconds": 0.8,
     "data": {
         "currencies": {
-            "EUR": 0.863309,
-            "RUB": 78.278961,
-            "GBP": 0.747129
+            "EUR": 0.867215,
+            "RUB": 79.347649,
+            "GBP": 0.748433
         },
         "post_1": {
             "id": 1,
@@ -24,18 +24,18 @@
         },
         "weather_Moscow": {
             "city": "Moscow",
-            "temperature": 5.2,
-            "windspeed": 7.0
+            "temperature": 7.0,
+            "windspeed": 3.9
         },
         "weather_London": {
             "city": "London",
-            "temperature": 11.2,
-            "windspeed": 18.0
+            "temperature": 7.3,
+            "windspeed": 15.5
         },
         "weather_Tokyo": {
             "city": "Tokyo",
-            "temperature": 1.5,
-            "windspeed": 3.3
+            "temperature": 5.0,
+            "windspeed": 7.6
         }
     }
 }
