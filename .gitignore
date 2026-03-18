@@ -212,5 +212,4 @@ __marimo__/
 # данные
 *.json
 *.csv
-debug_test.py
 *.db
