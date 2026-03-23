@@ -1,0 +1,2 @@
+my_app - ERROR - Это увидим и в консоли, и в файле app_log.txt!
+my_app - ERROR - Это увидим и в консоли, и в файле app_log.txt!
